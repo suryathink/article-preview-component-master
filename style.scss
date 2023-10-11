@@ -123,21 +123,23 @@ body {
   width: 200px;
 }
 .share-svg-logo-normal {
-  //   border: 1px solid red;
+    // border: 1px solid red;
   height: 29px;
   width: 29px;
   background-color: #ecf2f8;
   border-radius: 50%;
 }
 .share-svg-logo-onClick {
-  //   border: 1px solid red;
+    // border: 1px solid red;
   height: 29px;
   width: 29px;
   color: #ffffff;
-  background-color: #6e8098;
+  // background-color: #6e8098;
   border-radius: 50%;
   .share-svg {
     color: #fff;
+    // border: 1px solid red;
+
   }
 }
 
@@ -148,7 +150,7 @@ body {
 }
 
 .share-box {
-  //   border: 1px solid red;
+    // border: 1px solid red;
   background-color: #48556a;
   display: flex;
   justify-content: space-around;
@@ -162,6 +164,7 @@ body {
   left: 310px;
   bottom: 80px;
   span {
+    // border: 1px solid red;
     font-family: Manrope;
     font-size: 13px;
     font-style: normal;
